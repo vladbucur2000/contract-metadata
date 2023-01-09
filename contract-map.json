@@ -4237,5 +4237,14 @@
     "erc20": true,
     "symbol": "DYDX",
     "decimals": 18
+  },
+  {
+  "0x1D6405138A335cE5FD7364086334EfB3E4F28B59": {
+    "name": "ClearCryptos",
+    "logo": "ccx.svg",
+    "erc20": true,
+    "symbol": "CCX",
+    "decimals": 18
   }
+}
 }
